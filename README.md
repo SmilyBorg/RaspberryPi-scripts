@@ -30,6 +30,8 @@ Scripts for configuring my Raspberry Pi computers
  - ADS-B - https://www.youtube.com/watch?v=Y5HeQEjLmwc
  - TV streaming - https://www.youtube.com/watch?v=KI0LuIcFM98 https://www.youtube.com/watch?v=fjDbVIWD8YU
  - RTL-SDR - https://www.youtube.com/watch?v=EHSxe44svns
+ - Outernet reciever - http://www.rtl-sdr.com/rtl-sdr-tutorial-receiving-and-decoding-data-from-the-outernet/  https://outernet.is/ http://www.rtl-sdr.com/rtl-sdr-tutorial-receiving-and-decoding-data-from-the-outernet/ https://static1.squarespace.com/static/55ccfcb0e4b0c5b275895965/t/58325122579fb38c5719f2fb/1479692584995/Outernet+L-Band+Manual+v03.10.pdf 
+ - APRS reciever - https://github.com/wb2osz/direwolf/blob/master/doc/Raspberry-Pi-SDR-IGate.pdf https://github.com/wb2osz/direwolf/blob/master/doc/Raspberry-Pi-APRS.pdf 
  - http://www.g0hwc.com/raspberry-pi-ham-radio.html
  - https://learn.adafruit.com/freq-show-raspberry-pi-rtl-sdr-scanner/overview
  - http://www.rtl-sdr.com/building-a-ham-tranceiver-with-an-rtl-sdr-raspberry-pi-and-rpitx/
@@ -41,3 +43,4 @@ Scripts for configuring my Raspberry Pi computers
  - zoneminder - https://zoneminder.com/ https://wiki.zoneminder.com/Raspbian http://www.holylinux.net/content/raspberry-pi-webcam-zoneminder 
  - security system - http://www.projects.privateeyepi.com/ http://www.hometoys.com/article/2014/06/7-raspberry-pi-projects-for-home-security/2161/
  
+
