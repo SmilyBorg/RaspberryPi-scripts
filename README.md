@@ -42,5 +42,6 @@ Scripts for configuring my Raspberry Pi computers
  - Smart Mirror - https://www.youtube.com/watch?v=fkVBAcvbrjU https://www.youtube.com/watch?v=ejnE6DM-hqU
  - zoneminder - https://zoneminder.com/ https://wiki.zoneminder.com/Raspbian http://www.holylinux.net/content/raspberry-pi-webcam-zoneminder 
  - security system - http://www.projects.privateeyepi.com/ http://www.hometoys.com/article/2014/06/7-raspberry-pi-projects-for-home-security/2161/
+ - http://blog.alexellis.io/hardened-raspberry-pi-nas/
  
 
