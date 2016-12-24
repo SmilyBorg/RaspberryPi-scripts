@@ -20,7 +20,20 @@ Scripts for configuring my Raspberry Pi computers
  - radius - https://www.youtube.com/watch?v=8MVWrCgaH68
  - shorewall
  - ipv6
+ - SNMP
+ - VPN
+  - Openvpn
+  - ipsec
  - traffic graphing - metrics to cloud
+  - Netflow/sFlow/etc
+  - Netgrok? http://www.cs.umd.edu/projects/netgrok/
+  - glTail? http://www.fudgie.org/
+  - logstalgia - http://logstalgia.io/
+  - gource http://gource.io/
+  - mrtg
+  - ntop
+  - collectd https://collectd.org/wiki/index.php/Plugin:IPTables
+ - Kismet?
  - management frontend
  - wake on lan for desktop, TVs, server, etc
  - SSH bastion host
