@@ -17,7 +17,7 @@ Scripts for configuring my Raspberry Pi computers
 
 - Router
  - pppoe - DSL via bridge mode modem
- - wifi AP - https://frillip.com/using-your-raspberry-pi-3-as-a-wifi-access-point-with-hostapd/
+ - wifi AP - https://frillip.com/using-your-raspberry-pi-3-as-a-wifi-access-point-with-hostapd/ https://learn.adafruit.com/setting-up-a-raspberry-pi-as-a-wifi-access-point/overview
  - dhcp
  - ntp - http://www.satsignal.eu/ntp/Raspberry-Pi-NTP.html
  - dns
