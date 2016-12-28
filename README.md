@@ -4,12 +4,16 @@ Scripts for configuring my Raspberry Pi computers
 
 ## Projects
 - TV frontend
- - Kodi - http://mymediaexperience.com/raspberry-pi-xbmc-with-raspbmc/
+ - Kodi
+  - http://mymediaexperience.com/raspberry-pi-xbmc-with-raspbmc/
+  - http://kodi.wiki/view/raspberry_Pi
+  - http://kodi.wiki/view/HOW-TO:Install_Kodi_on_Raspberry_Pi
+  - http://mymediaexperience.com/raspberry-pi-xbmc-with-raspbmc/
  - IR or CEC - TV on/off
  - Alarm clock
  - Calendar/weather/ambient info/ morning info dump
  - Steam streaming - https://pimylifeup.com/raspberry-pi-steam-box/ http://www.instructables.com/id/Raspberry-Pi-3-Gaming-With-Steam/ http://www.howtogeek.com/220969/turn-a-raspberry-pi-into-a-steam-machine-with-moonlight/ http://moonlight-stream.com/
- - emulator - https://pimylifeup.com/raspberry-pi-emulator/
+ - emulator - https://pimylifeup.com/raspberry-pi-emulator/ https://retropie.org.uk/ https://github.com/RetroPie/RetroPie-Setup 
 
 - Router
  - pppoe - DSL via bridge mode modem
@@ -37,6 +41,7 @@ Scripts for configuring my Raspberry Pi computers
  - management frontend
  - wake on lan for desktop, TVs, server, etc
  - SSH bastion host
+ - Pi Hole https://pi-hole.net/ https://github.com/pi-hole/pi-hole 
  - https://www.youtube.com/playlist?list=PLGvkW0sr-RWbBlME7hkihBQcLq9CgYxHA
   
 - SDR server
@@ -53,8 +58,13 @@ Scripts for configuring my Raspberry Pi computers
 - other
  - Webcam streaming - https://www.youtube.com/watch?v=e2VcxhH_k7Y
  - Smart Mirror - https://www.youtube.com/watch?v=fkVBAcvbrjU https://www.youtube.com/watch?v=ejnE6DM-hqU
+  - https://magicmirror.builders/
  - zoneminder - https://zoneminder.com/ https://wiki.zoneminder.com/Raspbian http://www.holylinux.net/content/raspberry-pi-webcam-zoneminder 
  - security system - http://www.projects.privateeyepi.com/ http://www.hometoys.com/article/2014/06/7-raspberry-pi-projects-for-home-security/2161/
  - http://blog.alexellis.io/hardened-raspberry-pi-nas/
+ - https://opensource.com/article/16/12/yearbook-8-fun-raspberry-pi-projects
+ - https://www.raspberryweather.com/ https://github.com/peterkodermac/Raspberry-Weather
+ - https://github.com/FutureSharks/rpi-security https://www.hackster.io/FutureSharks/raspberry-pi-security-system-with-motion-detection-camera-bed172
+ 
  
 
